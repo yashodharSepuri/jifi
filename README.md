@@ -1,1 +1,1 @@
-# Personal Project - Masters
+# Masters Project
